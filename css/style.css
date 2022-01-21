@@ -1,0 +1,50 @@
+body {
+  background: linear-gradient(45deg, black, green);
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100%;
+}
+
+.container {
+  width: 800px;
+  margin: 30px auto;
+  color: #fff;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 100;
+  font-size: 2.2rem;
+  text-transform: uppercase;
+}
+
+#seconds, #tens {
+  font-size: 2.8rem;
+}
+
+button {
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -khtml-border-radius: 5px;
+  background: linear-gradient(45deg, black, green);
+  color: #fff;
+  border: 1px solid #fff;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+  padding: 18px 10px;
+  width: 180px;
+  margin: 10px;
+  outline: none;
+}
+button:hover {
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  background: #fff;
+  border: 1px solid #fff;
+  color: linear-gradient(45deg, black, green);
+}
+
+/*# sourceMappingURL=style.css.map */

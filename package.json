@@ -1,0 +1,23 @@
+{
+  "name": "stopwatch-vanilla",
+  "version": "1.0.0",
+  "description": "Simple Stopwatch",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch scss:css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malanski/Stopwatch-Vanilla.git"
+  },
+  "author": "ulisses malanski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malanski/Stopwatch-Vanilla/issues"
+  },
+  "homepage": "https://github.com/malanski/Stopwatch-Vanilla#readme",
+  "dependencies": {
+    "sass": "^1.49.0"
+  }
+}
